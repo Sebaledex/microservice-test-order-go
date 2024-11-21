@@ -1,4 +1,4 @@
-module github.com/FelipeGeraldoblufus/product-microservice-go
+module github.com/Sebaledex/microservice-test-order-go
 
 go 1.21
 
